@@ -1,0 +1,2 @@
+## Le bonheur
+Selon Aristore, il ne faut pas fonder sa conception du bonheur sur l'individualité mais sur une chose qu'on a tous en commun. Selon lui cette chose c'est le Souverain Bien, le but de toutes nos actions qui mènent toutes au bonheur.
