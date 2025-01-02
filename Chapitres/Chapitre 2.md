@@ -108,3 +108,34 @@ Ainsi chez Pascal, l'intuition est une Foi non religieuse. On a donc une sépara
 	La séparation entre raison/coeur, science/connaissance, intuition/Foi ne s'accompagne pas par un jugement de valeur
 $\implies$ La religion perd toute sa raison quand elle doit se justifier.
 Pascal: "c'est en manquant de preuve qu'ils ne manquent pas se sens"
+
+## II) La science a un statut fiduciaire, la connaissance est réduite à la croyance dont la valeur n'est pas la vérité mais l'utilité. Comme nous ne pouvons pas tout connaitre, nous devons nous contenter de croire
+### A) Nous ne pouvons pas savoir mais simplement croire que nous savons.
+- Hume, _L'Enquête sur l'entendement humain_, 1748
+
+L'entendement est la raison pour tous les philosophes sauf Kant
+Hume suit le courant de l'empirisme:
+L'empirisme est un courant philosophique pour lequel le fondement de la connaissance c'est l'empirie, la sensibilité (les sens), l'expérience sensible.
+
+**Sens du mot "Expérience":**
+1) Expérience scientifique (mise en ordre du réel, reproductible...)
+2) Expérience sensible (ensemble des données sensibles)
+3) Expérience comme un apprentissage
+
+L'empirisme s'oppose donc au rationalisme et à l'innéisme (selon lequel nous avons des concepts innés sans avoir besoin de les acquérir)
+
+##### L'origine de nos idées
+- Nos idées ou perceptions sont dérivées de nos impressions sensibles
+- Toutes nos idées et toutes nos perceptions proviennent de nos impressions sensibles
+- On peut se créer une image par association d'idées (ex: "une montagne d'or" n'existe pas en vrai mais on peut associer l'idée de montagne avec l'idée "d'or")
+
+3 principes de connexion des idées:
+1) La ressemblance: A me fait penser à B donc quand je pense à A je pense à B
+2) La contiguïté: simultanéité spacio-temporelle
+3) La causalité: A est la cause de B qui est son effet
+
+L'origine de nos connaissances se trouve toujours dans l'esprit humain. En donnant les 3 principes de connexion des idées, on montre que la connexion entre les idées n'est pas aléatoire mais qu'elle n'est pas objective non plus. La ressemblance entre les choses ne dépend pas de cette chose mais repose sur la façon dont nous allons percevoir ces choses là. Item, la contiguïté dépend de la personne, de la mémoire... Le principe de la causalité, lorsqu'il est réduit à un principe d'association d'idées, il n'est plus naturel et ne suit plus les lois de la nature $\implies$ toute association d'idée est subjective.
+
+##### La causalité dans les sciences
+Hume distingue les sciences expérimentales et formelles car les relations entre les termes sont différentes mais sont toutes deux fondées sur des expériences (sinon il n'y aurait pas l'idée d'origine).
+D'une part, les sciences formelles mettent en relation des idées. De l'autre, la science expérimentale s'occupe des relations entre les faits (ou les événements)

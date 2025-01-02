@@ -126,13 +126,7 @@ ____
 - **Définition du bonheur utilisée** : Le bonheur est un équilibre entre satisfaction rationnelle et vitalité émotionnelle, recherché à travers une vie harmonieuse et réfléchie (Stoïcisme, Aristote).
 
 ____
-# Dissertation
-La quête du bonheur semble universelle, mais les chemins pour y parvenir sont aussi variés que les individus. Parmi eux, la raison se distingue comme un outil pour guider nos choix et maîtriser nos désirs, promettant une vie épanouie. Ainsi, comprendre le rôle de la raison dans l'obtention du bonheur invite à réfléchir à son véritable impact sur notre satisfaction durable.
-Ainsi, à première vue, il semble que la raison soit effectivement la clé du bonheur. En effet, si l'on comprend la raison comme la faculté de produire des raisonnements rationnels et le bonheur comme un état durable de satisfaction qui s'obtient grâce à un travail sur soi et sur ses désirs, alors la raison permet de guider nos choix et de maîtriser nos désirs, conduisant ainsi à une vie plus harmonieuse et satisfaisante. Par exemple, dans la vie quotidienne, la raison permet de planifier, de résoudre des problèmes et de prendre des décisions en harmonie avec nos objectifs personnels pour ainsi atteindre une sérénité et une plénitudes menant au bonheur.
-Cependant, il est également possible de penser que la raison n’est pas la clé du bonheur et qu’elle peut même en être un obstacle. En effet, si l'on considère que la raison est une faculté permettant de distinguer le vrai du faux en exposant des vérités parfois désagréables ou inaccessibles, et que le bonheur dépend davantage de l’émotion, de l’intuition ou d’un état d’ignorance heureuse, alors la quête rationnelle peut éloigner de la plénitude recherchée. Par exemple, une bienheureuse surprise est souvent mieux perçue que le résultat d'un travail qui, bien que menant aussi au bonheur, a un effet amoindri par la difficulté de la tâche.
-En ce sens, il convient de se demander si, étant donné que la raison nous guide vers des choix réfléchis et rationnels, elle constitue la clé du bonheur, ou bien si, parce qu’elle peut nous éloigner des plaisirs spontanés et des expériences sensibles, elle en est à l'inverse un obstacle.
-
-
+# Plan de la dissertation 2
 ## **I) La raison comme condition essentielle du bonheur : un outil pour maîtriser nos désirs, structurer nos choix et atteindre une harmonie durable**
 
 ### Définitions des termes
@@ -200,7 +194,7 @@ En ce sens, il convient de se demander si, étant donné que la raison nous guid
 
 ### 1. La raison doit collaborer avec les émotions
 
-- **Argument** : Le bonheur repose sur un équilibre entre rationalité et sensibilité. Une raison trop stricte étouffe la spontanité des émotions.
+- **Argument** : Le bonheur repose sur un équilibre entre rationalité et sensibilité. Une raison trop stricte étouffe la spontanéité des émotions.
 - **Auteur** : Pascal (le "cœur") et Aristote (souverain bien).
 - **Exemple** : Un artiste qui utilise la raison pour planifier son projet, mais se laisse guider par son intuition pour créer une œuvre sincère.
 
@@ -229,3 +223,48 @@ En ce sens, il convient de se demander si, étant donné que la raison nous guid
 ### Réponse finale :
 
 La raison est une clé essentielle du bonheur, mais elle ne suffit pas à elle seule. Le bonheur, état complexe et subjectif, réside dans l’équilibre entre rationalité et sensibilité. Un bonheur pleinement réalisé nécessite la collaboration entre toutes les dimensions humaines.
+
+____
+# Plan de la dissertation 3: "La raison est-elle la clé du bonheur?"
+
+Problématique: "il convient de se demander si, étant donné que la raison nous guide vers des choix réfléchis et rationnels, elle constitue la clé du bonheur, ou bien si, parce qu’elle peut nous éloigner des plaisirs spontanés et des expériences sensibles, elle en est à l'inverse un obstacle."
+
+## I) La raison, en tant qu'outil permettant les raisonnements logiques, est essentiel pour effectuer les actions et les travaux aboutissant au bonheur
+### A) La raison évite les excès en classant les désirs
+- **Argument** : La raison permet de distinguer les désirs naturels nécessaires des désirs vains, évitant ainsi les excès et les souffrances.
+- **Auteur** : Epicure (classification des désirs).
+- **Exemple** : Une personne évite les achats impulsifs superflus grâce à une réflexion rationnelle, préférant économiser pour des besoins essentiels.
+
+### B) La raison permet de modifier nos désirs pour les adapter à la réalité
+
+- **Argument** : Selon Descartes, il est plus sage d’adapter ses désirs à ce qui est possible que de chercher à modifier le monde.
+- **Auteur** : Descartes (_Discours de la méthode_).
+- **Exemple** : Une personne qui accepte de trouver du plaisir dans ses activités actuelles plutôt que de poursuivre des objectifs inaccessibles.
+
+### C) La raison guide toutes nos actions vers un but final de plénitude, le Souverain Bien:
+
+- **Argument** : Aristote voit dans la raison une condition nécessaire pour agir selon la vertu, mère du bonheur durable.
+- **Auteur** : Aristote (_Éthique à Nicomaque_).
+- **Exemple** : Une personne qui planifie ses études avec discipline récolte le fruit de ses efforts rationnels et atteint une satisfaction durable.
+
+## II) Le bonheur, en tant que somme de petits plaisirs et désirs immédiats et subjectifs, est freiné voire bloqué par la raison
+### A) La satisfaction immédiate des désirs peut allers à l'encontre de la rationalité.
+- **Argument** : Selon Aristippe de Cyrène, le plaisir immédiat, bien que souvent irrationnel, est une composante incontournable du bonheur.
+- **Exemple** : Une personne qui suit ses impulsions peut connaître des moments de bonheur intense, même si ces choix défient la raison.
+- **Analyse** : L’approche rationnelle, trop rigide, peut priver l’individu de ces instants de bonheur fugace mais authentique.
+
+### B) La raison est un frein lors de la recherche du bonheur car elle nous ramène toujours dans un esprit de stress et d'anticipation constant
+- **Argument**: Selon Jankélévitch, il faut chercher à vivre au présent dans le présent car il ne faut pas chercher à lutter avec la raison contre le temps qui passe mais au contraire se laisser aller pour vivre pleinement
+- **Exemple**: Une personne qui cherche toujours à tout contrôler sera dans le malheur face aux choses qu'elle n'a pas pu anticiper.
+- **Analyse**: En tentant de tout rationnaliser, on est forcément malheureux face à ce qui ne peut pas l'être
+
+### C) La raison, par la nature humain, rend malheureux à cause d'une mauvaise utilisation et donc va à l'encontre du bonheur.
+- **Argument**: Selon David Hume, l'homme à tendance à utiliser des mauvais raisonnements
+
+____
+# Dissertation
+La quête du bonheur semble universelle, mais les chemins pour y parvenir sont aussi variés que les individus. Parmi eux, la raison se distingue comme un outil pour guider nos choix et maîtriser nos désirs, promettant une vie épanouie. Ainsi, comprendre le rôle de la raison dans l'obtention du bonheur invite à réfléchir à son véritable impact sur notre satisfaction durable.
+Ainsi, à première vue, il semble que la raison soit effectivement la clé du bonheur. En effet, si l'on comprend la raison comme la faculté de produire des raisonnements rationnels et le bonheur comme un état durable de satisfaction qui s'obtient grâce à un travail sur soi et sur ses désirs, alors la raison permet de guider nos choix et de maîtriser nos désirs, conduisant ainsi à une vie plus harmonieuse et satisfaisante. Par exemple, dans la vie quotidienne, la raison permet de planifier, de résoudre des problèmes et de prendre des décisions en harmonie avec nos objectifs personnels pour ainsi atteindre une sérénité et une plénitudes menant au bonheur.
+Cependant, il est également possible de penser que la raison n’est pas la clé du bonheur et qu’elle peut même en être un obstacle. En effet, si l'on considère que la raison est une faculté permettant de distinguer le vrai du faux en exposant des vérités parfois désagréables ou inaccessibles, et que le bonheur dépend davantage de l’émotion, de l’intuition ou d’un état d’ignorance heureuse, alors la quête rationnelle peut éloigner de la plénitude recherchée. Par exemple, une bienheureuse surprise est souvent mieux perçue que le résultat d'un travail qui, bien que menant aussi au bonheur, a un effet amoindri par la difficulté de la tâche.
+En ce sens, il convient de se demander si, étant donné que la raison nous guide vers des choix réfléchis et rationnels, elle constitue la clé du bonheur, ou bien si, parce qu’elle peut nous éloigner des plaisirs spontanés et des expériences sensibles, elle en est à l'inverse un obstacle.
+Dans un premier temps, nous verrons que la raison, en tant qu'outil permettant les raisonnements logiques, est essentiel pour effectuer des actions et des travaux aboutissant au bonheur. Cependant, nous verrons aussi que le bonheur, en tant que somme de plaisirs et de désirs immédiats et subjectifs, est freiné par la raison qui ne peut pas satisfaire ces éléments irrationnels du bonheur. Néanmoins, la raison
