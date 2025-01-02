@@ -16,7 +16,7 @@ La thèse de Descartes fait dépendre le savoir d'une action (la capacité)
 Chez Descartes, la raison c'est la capacité à distinguer le vrai du faux.
 
 "le bon sens est la chose la mieux partagée du monde" $\implies$ tout le monde a la raison ET tout le monde a autant de raison (chez Descartes, la raison est une qualité)
-Ca veut dire que si nous faisons une erreur de raisonnement, ce n'est pas un manque mais une mauvais utilisation de la raison. La cause de l'erreur est un mauvais usage de la raison:
+Ca veut dire que si nous faisons une erreur de raisonnement, ce n'est pas un manque mais une mauvaise utilisation de la raison. La cause de l'erreur est un mauvais usage de la raison:
 Ex: 
 - "1)s'il pleut alors je prends mon parapluie; 2) Il pleut; Conclusion: je prends mon parapluie" est un raisonnement correct
 - "2)s'il pleut je prends mon parapluie; 2) Je prends mon parapluie; Conclusion: il pleut" est une mauvaise utilisation de la raison
@@ -138,4 +138,21 @@ L'origine de nos connaissances se trouve toujours dans l'esprit humain. En donna
 
 ##### La causalité dans les sciences
 Hume distingue les sciences expérimentales et formelles car les relations entre les termes sont différentes mais sont toutes deux fondées sur des expériences (sinon il n'y aurait pas l'idée d'origine).
-D'une part, les sciences formelles mettent en relation des idées. De l'autre, la science expérimentale s'occupe des relations entre les faits (ou les événements)
+D'une part, les sciences formelles mettent en relation des idées. De l'autre, la science expérimentale s'occupe des relations entre les faits (ou les événements).
+**Pour Hume, les relations entre les idées sont réalisées par la seule pensée sans recours à l'expérience**. Ces relations d'idées sont des propositions analytiques et leur contraire est contradictoire. Les sciences expérimentales sont ainsi synthétiques, leur contraire est possible.
+Hume dit que le problème c'est que les jugements des relations d'idées sont nécessairement vraies or les relations de fait ne le sont pas (le contraire est possible).
+- Il y a alors une confusion, on considère parfois les relations de fait comme des relations d'idées. Ex: la physique; pour la proposition "le soleil se lèvera demain", le contraire est possible.
+
+Pour Hume, le raisonnement inductif n'est pas satisfaisant car on ne peut pas tirer d'un cas particulier une loi générale (elle ne sera jamais nécessairement vraie car le contraire est possible).
+Tout raisonnement inductif ne donne lieu qu'à des relations de faits.
+Hume remarque qu'on confond souvent induction avec relations d'idées, ce qui est un problème.
+Pourquoi part-on de cas particuliers pour arriver à des cas généraux en science?
+-> Rôle de la causalité dans les lois scientifiques
+Les lois de la nature sont mathématiques et servent à représenter la nature selon un ordre de causalité:
+Hume considère que le passage de la séquence la conséquence n'est pas légitime.
+- L'Homme est soumis au principe d'habitude associative: à force d'observer des séquences répétitives, on conclut que $P_1\implies P_2$ alors que ce n'est pas forcément vrai.
+
+MAIS le principe d'habitude associative ne donnera jamais une loi de la nature universelle et n'aura jamais la force d'idée; c'est une croyance or les sciences expérimentales ne seront toujours qu'une ensemble de croyances.
+La critique Humienne de la science a un fondement psychologique: en analysant la structure de nos idées, il découvre que tout ce que nous considérons comme des lois universelles sont des croyances
+
+En conclusion, Hume établit que la science a un statut fiduciaire (certain opposé à fiduciaire) car l'ensemble de la science est réduite au simple état de croyance, les sciences expérimentales n'auront jamais la force des sciences formelles. Hume critique donc la science d'Auguste Comte, Newton, Descartes… En disant que la science expérimentale, ce n'est qu'un ensemble de propositions probables accompagnées d'un sentiment de croyance.
