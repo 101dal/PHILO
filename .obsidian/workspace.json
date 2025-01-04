@@ -20,55 +20,6 @@
               "icon": "lucide-file",
               "title": "La raison est-elle la clé du bonheur"
             }
-          },
-          {
-            "id": "932d3aa53c07f1b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodoloqie/La dissertation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La dissertation"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f673221e94d4cff0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "114971eee40200ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dissertations/La raison est-elle la clé du bonheur.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "La raison est-elle la clé du bonheur"
-            }
-          },
-          {
-            "id": "4eed73aa26b45df1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dissertations/La raison est-elle la clé du bonheur.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La raison est-elle la clé du bonheur"
-            }
           }
         ]
       }
@@ -213,18 +164,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "932d3aa53c07f1b3",
+  "active": "56b89bb081104fb2",
   "lastOpenFiles": [
     "Méthodoloqie/Problématisation.md",
-    "Méthodoloqie/La dissertation.md",
+    "Méthodoloqie/Explication de texte.md",
     "Dissertations/La raison est-elle la clé du bonheur.md",
+    "Chapitres/Chapitre 2.md",
+    "Méthodoloqie/La dissertation.md",
     "Notions/Bonheur.md",
     "Notions/Raison.md",
-    "Chapitres/Chapitre 2.md",
     "Auteurs/Epictète.md",
     "Auteurs/Jankélévitch.md",
     "Chapitres/Chapitre 1.md",
-    "Méthodoloqie/Explication de texte.md",
     "Auteurs/Hume.md",
     "Définitions.md",
     "Auteurs/Nietzsche.md",
