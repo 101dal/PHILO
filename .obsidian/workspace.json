@@ -4,55 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b8effc5c12280b48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0720dbaf88283466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodoloqie/La dissertation.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "La dissertation"
-            }
-          },
-          {
-            "id": "550724695381d7af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dissertations/La raison est-elle la clé du bonheur.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "La raison est-elle la clé du bonheur"
-            }
-          },
-          {
-            "id": "26317a85ed49a14f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitres/Chapitre 2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 2"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "d2077e6d1bc6b978",
         "type": "tabs",
         "children": [
@@ -77,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dissertations/La raison est-elle la clé du bonheur.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
