@@ -79,12 +79,11 @@ de la satisfaction spontanée de nos désirs. En effet, selon Aristippe de Cyrè
 
 ### II.B) La raison est un frein lors de la recherche du bonheur
 De surcroit, parce qu'elle nous maintient dans un état de constante anticipation et analyse, la raison nous freine lors de la cherche du bonheur. En effet, selon Jankélévitch dans _L'irréversible et la nostalgie_, le temps passe sans qu'on puisse le stopper et tenter d'y faire quelque chose, en plus d'être inutile, ne peux nous mener qu'au malheur. Il faut donc vivre pleinement dans le présent sans chercher à tout contrôler par la raison qui nous empêche de nous abandonner en gardant un pied nostalgique ou mélancolique dans un passé pourtant irréversible et irrémédiable. Le personnage de la mère dans _Juste la fin du monde_ de Jean Luc Lagarce est un parfait contre exemple de ce que Jankélévitch recommande: elle reste dans un passé révolu et lorsqu'elle discute avec ses enfants, ce n'est que pour se rappeler des événements passé. Elle n'est pas heureuse dans le présent donc tente avec malheur, désespoir et en utilisant tout son esprit et sa raison de rester dans ce passé lointain sans succès. On voit bien alors que l'excès de rationalité peut devenir un obstacle majeur à l'expérience ou la recherche du bonheur.
-
-### II.C) La raison, par la nature humaine, rend malheureux à cause d'une mauvaise utilisation
-
 Il vient ensuite que la raison nous conduit à un malheur certain en nous donnant l'illusion d'une compréhension du monde qui est pourtant inaccessible. Hume souligne dans _l'Enquête sur l'entendement humain_ que nos raisonnement nous conduit à une insatisfaction profonde à cause d'une mauvaise utilisation. En effet, de par notre nature humain, nous avons des difficultés à raisonner par relations d'idées et préférons l'induction, basée sur des associations de fait donc bien souvent source d'erreur. Cette mauvaise utilisation entraine des erreurs, des mépris et des confusions qui nous conduit souvent à la frustration. Par exemple, une personne qui tente  de comprendre avec sa raison pourquoi sa relation amoureuse a échoué peut se torturer l'esprit avec des explications qui ne sont que des croyances subjectives, s'éloignant ainsi du bonheur. Ainsi, la raison, mal employée, peut devenir source de tourment plutôt que de bonheur.
 
 Nous avons donc vu que même si la raison apparaît comme un outil essentiel pour atteindre le bonheur, elle peut en réalité constituer un véritable obstacle qui nous éloigne des plaisirs immédiats ou nous enferme dans une prison mentale où nous tentons vainement de rationnaliser ou d'user de notre mémoire pour chercher un bonheur inatteignable car inexistant. Cette opposition nous invite à repenser le rôle de la raison non pas comme un moyen, mais comme un instrument permettant d'accéder à une forme de liberté nécessaire au bonheur.
+
+____
 
 ### III.A) La raison permet de nous libérer des désirs qui nous aliènent
 
