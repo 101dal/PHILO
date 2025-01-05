@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "02c865879b4b5ab7",
@@ -166,11 +166,11 @@
   },
   "active": "56b89bb081104fb2",
   "lastOpenFiles": [
+    "Chapitres/Chapitre 2.md",
+    "Dissertations/La raison est-elle la clé du bonheur.md",
     "Notions/Bonheur.md",
     "Notions/Raison.md",
     "Méthodoloqie/La dissertation.md",
-    "Chapitres/Chapitre 2.md",
-    "Dissertations/La raison est-elle la clé du bonheur.md",
     "Auteurs/Aristippe de Cyrène.md",
     "Méthodoloqie/Problématisation.md",
     "Méthodoloqie/Explication de texte.md",
