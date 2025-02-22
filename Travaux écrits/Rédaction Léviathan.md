@@ -1,0 +1,2 @@
+Rédiger les trois paragraphes de l'explication de texte qui a été travaillée en classe sur l'extrait du Léviathan de Hobbes. Il faut reprendre le plan vu en classe et les éléments d'analyse, et simplement rédiger en se concentrant sur la méthode du paragraphe d'explication. Étant donné que le bac blanc arrive rapidement, ce devoir est facultatif (vous pouvez ne pas le rendre) et bonus (il ne fera pas baisser la moyenne du S2).
+

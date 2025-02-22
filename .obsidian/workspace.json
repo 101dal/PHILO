@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dissertations/La raison est-elle la clé du bonheur.md",
+                "file": "Travaux écrits/Rédaction Léviathan.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "La raison est-elle la clé du bonheur"
+              "title": "Rédaction Léviathan"
+            }
+          }
+        ]
+      },
+      {
+        "id": "83f07b0e84622f2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ee19a2508e2551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitres/Chapitre 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 1"
             }
           }
         ]
@@ -40,7 +60,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 235.5
   },
   "right": {
     "id": "02c865879b4b5ab7",
@@ -166,17 +187,18 @@
   },
   "active": "56b89bb081104fb2",
   "lastOpenFiles": [
-    "Méthodoloqie/La dissertation.md",
-    "Dissertations/La raison est-elle la clé du bonheur.md",
+    "Chapitres/Chapitre 1.md",
+    "Travaux écrits/Rédaction Léviathan.md",
     "Chapitres/Chapitre 2.md",
+    "Méthodoloqie/Problématisation.md",
+    "Méthodoloqie/La dissertation.md",
+    "Travaux écrits/La raison est-elle la clé du bonheur.md",
     "Notions/Bonheur.md",
     "Notions/Raison.md",
     "Auteurs/Aristippe de Cyrène.md",
-    "Méthodoloqie/Problématisation.md",
     "Méthodoloqie/Explication de texte.md",
     "Auteurs/Epictète.md",
     "Auteurs/Jankélévitch.md",
-    "Chapitres/Chapitre 1.md",
     "Auteurs/Hume.md",
     "Définitions.md",
     "Auteurs/Nietzsche.md",
@@ -193,8 +215,7 @@
     "Auteurs/Epicure.md",
     "Auteurs/Descartes.md",
     "[.md",
-    "[[.md",
-    "Dissertations",
+    "Travaux écrits",
     "Auteurs",
     "Notions",
     "Chapitres"
