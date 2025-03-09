@@ -39,3 +39,4 @@ L'analyse est toujours linéaire (2-4 parties) -> que fait l'auteur?
 Dans l'idéal tous les mots du texte doivent avoir été cités
 3) Ajouter si besoin et discrètement un exemple ou faire une distinction conceptuelle, repère conceptuel ou enfin une référence à un autre auteur de philosophie étudié (Attention de faire une référence pertinente et sans étude de cet auteur)
 4) Rappel de l'idée en rapport avec le problème (utilité de l'Etat pour Hobbes)
+
