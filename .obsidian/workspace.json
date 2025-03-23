@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaux écrits/Rédaction paragraphe Engel.md",
+                "file": "Méthodoloqie/Explication de texte.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rédaction paragraphe Engel"
+              "title": "Explication de texte"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitres/Chapitre 3.md",
+                "file": "Travaux écrits/Rédaction paragraphe Marx.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 3"
+              "title": "Rédaction paragraphe Marx"
             }
           }
         ]
@@ -203,7 +203,7 @@
   "active": "44938f98c397f38e",
   "lastOpenFiles": [
     "Méthodoloqie/La dissertation.md",
-    "Travaux écrits/Rédaction paragraphe Engel.md",
+    "Travaux écrits/Rédaction paragraphe Marx.md",
     "Chapitres/Chapitre 3.md",
     "Repères/Essentiel - accidentel.md",
     "Notions/Bonheur.md",
