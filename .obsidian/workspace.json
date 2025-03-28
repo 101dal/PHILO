@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4359b76a0ceffcbc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3caebb081e98290d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitres/Chapitre 3.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 3"
-            }
-          },
-          {
-            "id": "44938f98c397f38e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodoloqie/Explication de texte.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Explication de texte"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "67eaae770cc1ad77",
         "type": "tabs",
         "children": [
@@ -48,12 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travaux écrits/Rédaction paragraphe Marx.md",
+                "file": "Repères/Théorie - Pratique.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Théorie - Pratique"
+            }
+          },
+          {
+            "id": "f6987a8750d55aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Définitions.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Définitions"
+            }
+          },
+          {
+            "id": "293dc3090fd62221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repères/Analyse - synthèse.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Analyse - synthèse"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f54ada9d21b401b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787c9e2a7520bdd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapitres/Chapitre 3.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rédaction paragraphe Marx"
+              "title": "Chapitre 3"
+            }
+          },
+          {
+            "id": "c7e16afc5d1d139f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Définitions.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Définitions"
             }
           }
         ]
@@ -79,7 +106,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -190,18 +217,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eadf033a2307a03a",
+  "active": "3e4a9372a9c87b14",
   "lastOpenFiles": [
+    "Chapitres/Chapitre 3.md",
+    "Repères/Théorie - Pratique.md",
+    "Repères/Contrainte - Obligation.md",
+    "Repères/Analyse - synthèse.md",
+    "Repères/Essentiel - accidentel.md",
+    "Définitions.md",
+    "Travaux écrits/Rédaction paragraphe Marx.md",
+    "Méthodoloqie/Explication de texte.md",
     "LICENSE",
     "LICENSE-B",
     "LICENSE-A",
@@ -212,7 +247,6 @@
     "source/quartz/util/theme.ts",
     "source/quartz/util/perf.ts",
     "source/quartz/util/resources.tsx",
-    "source/quartz/util/path.ts",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
     "source/docs/tags/plugin.md",
@@ -233,13 +267,6 @@
     "source/docs/plugins/Frontmatter.md",
     "source/docs/plugins/FolderPage.md",
     "source/docs/plugins/ExplicitPublish.md",
-    "source/docs/plugins/Description.md",
-    "source/docs/plugins/CreatedModifiedDate.md",
-    "source/docs/plugins/CrawlLinks.md",
-    "source/docs/plugins/ContentPage.md",
-    "source/docs/plugins/ContentIndex.md",
-    "source/docs/plugins/ComponentResources.md",
-    "source/docs/plugins/CNAME.md",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/github-init-repo-options.png",
     "source/docs/images/quartz-layout-mobile.png",

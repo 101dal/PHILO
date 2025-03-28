@@ -49,3 +49,20 @@ la vérité: c'est l'objectivité: la correspondance entre un discours et la ré
 **tautologique**: nécessairement vrai 
 
 **contradictoire**: nécessairement faux
+
+### Chapitre 3
+**Nation** : Communauté humaine partageant une culture, une histoire et un sentiment d'appartenance commun.
+
+**Pays** : Territoire délimité sur lequel s'exerce l'autorité d'un État.
+
+**Société** : Ensemble des individus vivant en communauté et développant des interactions ainsi que des relations sociales propres.
+
+**État** : Cadre institutionnel à l'intérieur duquel s'exerce le pouvoir politique. Il s'agit d'une structure dotée d'institutions qui exercent leur autorité sur un territoire et une population donnés.
+
+**Pouvoir** : Capacité effective d'agir et de faire agir autrui. Il peut être consenti (notamment par le droit) ou contesté (par la désobéissance). Il se distingue de la puissance.
+
+**Puissance** : Forme de pouvoir potentiel ou effectif qui repose sur la force et la contrainte. On peut y résister par une autre puissance.
+
+**Loi** : Mise en relation causale entre une action et une sanction
+
+**Droit** : ensemble des lois d'un Etat = droit "juridique"
