@@ -463,7 +463,7 @@ Analyse:
 	- on partage des idées, nos sentiments, le sens des choses
 	- cela suppose qu'on puisse discuter avec nos amis: une amitié sans dialogique n'en est pas vraiment une: ce ne sont plus que des souvenirs
 - elle fait une distinction conceptuelle entre dialogue et conversation intime:
-	- conversation intimes"les âmes individuelles parlents d'elles-mêmes"
+	- conversation intimes "les âmes individuelles parlent d'elles-mêmes"
 		- "âmes individuelles": consciences
 		- "parlent d'elles-mêmes":
 			1) Parler à propos de soi
@@ -471,4 +471,11 @@ Analyse:
 	- dialogue; "on se soucie du monde commun"
 		- la distinction entre la conversation intime et le dialogue c'est quand dans la conversation intime on a deux individus qui vont parler d'eux mêmes. C'est privé.
 		- dans les dialogues, les individus parlent d'une chose commune. C'est public.
-- il ne sufit pas que le monde soit culturellement/techniquement modifié pour qu'il soit humain. Arendt explique que la transofmraiton technique ou culturelle n'est pas un cirtère suffisant pour déterminer le monde humain. On peut imaginer des endroits naturels, humains car objets de discours
+- il ne suffit pas que le monde soit culturellement/techniquement modifié pour qu'il soit humain. Arendt explique que la transformation technique ou culturelle n'est pas un critère suffisant pour déterminer le monde humain. On peut imaginer des endroits naturels, humains car objets de discours.
+"être humain" ça veut dire "qui existe pour nous" et pas seulement "ça existe"
+A l'inverse, un conflit dont on ne parle pas n'existe pas pour le monde humain.
+"émouvoir" = émotions; "stimuler" = sens
+- "la voix humaine y résonne": la conversation se fait dans un seul sens. Il y a toujours la possibilité de parler de certains objets mais si personne n'en discute alors ça ne sera pas proprement humain
+
+
+Pour Hanna Arendt, l'humanité se constitue dans la communauté: pouvoir parler ensemble de choses. En dehors de cela, on est dans la discussion intime (parler à nous-même) ou alors dans une description dans dialogue.
