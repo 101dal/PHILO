@@ -394,7 +394,7 @@ Ces raisonnements sont objectifs car ils dépendent de la forme et non des argum
 <u>La vertu de l'homme c'est de vivre en cité.</u>
 
 > [!quote]- *Race et Histoire*- Chapitre 3 - Lévi-Strauss
-> "Ainsi l'Antiquité"
+> "Ainsi l'Antiquité confondait-elle tout ce qui ne participait pas de la culture grecque (puis gréco-romaine) sous le même nom de barbare; la civilisation occidentale a ensuite utilisé le terme de sauvage dans le même sens. Or derrière ces épithètes se dissimule un même jugement. Il est probable que le mot barbare se réfère étymologiquement à la confusion et à l'inarticulation du chant des oiseaux, opposées à la valeur signifiante du langage humain et sauvage, qui veut dire « de la forêt », évoque aussi un genre de vie animale, par opposition à la culture humaine. Dans les deux cas, on refuse d'admettre le fait même de la diversité culturelle on préfère rejeter hors de la culture, dans la nature, tout ce qui ne se conforme pas à la norme sous laquelle on vit. (...) L'humanité cesse aux frontières de la tribu, du groupe linguistique, parfois même du village; à tel point qu'un grand nombre de populations dites primitives se désignent d'un nom qui signifie les hommes » (ou parfois dirons-nous avec plus de discrétion les « bons », les « excellents », les « complets »), impliquant ainsi que les autres tribus, groupes ou villages ne participent pas des vertus ou même de la nature humaines, niais sont tout au plus composés de « mauvais », de « méchants », de « singes de terre » ou d' « œufs de pou »."
 
 La discussion commune est un dialogue.
 1) "L'humanité cesse aux frontières de la tribu, du groupe linguistique et parfois même du village."
@@ -426,3 +426,49 @@ Par exemple, un perroquet. Selon Brandon, sa signification est un rôle inféren
 > [!quote]- *L'Ethique à Nicomaque* - Aristote
 
 Pour Aristote, la justice c'est savoir à qui on doit donner. Comment être juste et bon? C'est grâce à la [[Définitions#^8367b4|constitution]] qu'on va être juste.
+
+Etre juste c'est être quelque chose. La Justice est donc comprise comme une disposition (vertu), c'est une manière d'être. On acquiert au fur et à mesure cette justice. La Justice, chez Aristote, c'est une question de <u>médiété</u> (ni trop ni pas assez). Il ne faut donc pas être trop craintif ou téméraire mais courageurx par exemple. 
+En ce sens, le courage est une vertu juste.
+1) La Justice repose sur un travail sur soi
+2) Cela suppose la raison:
+	- théorique : savoir ce qu'on doit faire
+	- pratique
+
+Aristote va distinguer la justice:
+- Corrective: réparation juste (égalité stricte, mathématique)
+- Distributive: répartition juste (égalité proportionnelle, géométrique)
+
+### <font color="#0070c0">C) La condition de l'humanité c'est le dialogue public.</font>
+> [!quote]- *Vies politiques* - Hannah Arendt - 1974
+> "Avec le dialogue se manifeste l’importance politique de l’amitié, et de son humanité propre. Le dialogue (à la différence des conversations intimes où les âmes individuelles parlent d’elles-mêmes), si imprégné qu’il puisse être du plaisir pris à la présence de l’ami, se soucie du monde commun, qui reste “inhumain” en un sens très littéral, tant que des hommes n’en débattent pas constamment. Car le monde n’est pas humain pour avoir été fait par des hommes, et il ne devient pas humain parce que la voix humaine y résonne, mais seulement lorsqu’il est devenu objet de dialogue. Quelque intensément que les choses du monde nous affectent, quelque profondément qu’elles puissent nous émouvoir et nous stimuler, elles ne deviennent humaines pour nous qu’au moment où nous pouvons en débattre avec nos semblables. Tout ce qui ne peut devenir objet de dialogue peut bien être sublime, horrible ou mystérieux, voire trouver voix humaine à travers laquelle résonner dans le monde, mais ce n’est pas vraiment humain. Nous humanisons ce qui se passe dans le monde et en nous en en parlant, et, dans ce parler, nous apprenons à être humains."
+
+<u>Plan du texte:</u>
+1) Distinction conceptuelle: le dialogue vs la vie intime dans le but de mettre en évidence l'importance di dialogue dans la constitution du monde
+2) Elle justifie ce qu'elle a dit avant en expliquant que ce n'est pas la transformation par l'homme du monde qui rend le monde humain
+3) Elle distingue le dialogue du simple fait de parler des choses
+
+<u>Thèse:</u> le monde est constitué en monde humain à la condition que les individus humains peuvent en parler ensemble, c'est-à-dire dialoguer à son propos
+<u>Problème:</u> le monde est-il humain à partir du moment où il est fait par les hommes ou vient le monde est-il humain à partir du moment où il est objet de dialogue
+<u>Objet:</u> langage et le monde. Le langage ne sert pas qu'à représenter les choses: il constitue le monde.
+
+Analyse:
+- "manifeste": révéler, le dialogue révèle quelque chose, 'l'importance politique de l'amitié"
+- l'amitié est importante pour plein de chose ET de manière politique
+- "politique": répartition du pouvoir
+	- concerne la vie politique, la vie en communauté
+- "humanité propre": discuter ensemble = deux personnes qui parlent ensemble en utilisant leur logos
+	- on partage notre raison = c'est l'importance des discours
+	- on partage de tout (amour, secrets, confiance...)
+	- $\implies$ il y a une forme spécifique de partage dans un dialogue
+	- on partage des idées, nos sentiments, le sens des choses
+	- cela suppose qu'on puisse discuter avec nos amis: une amitié sans dialogique n'en est pas vraiment une: ce ne sont plus que des souvenirs
+- elle fait une distinction conceptuelle entre dialogue et conversation intime:
+	- conversation intimes"les âmes individuelles parlents d'elles-mêmes"
+		- "âmes individuelles": consciences
+		- "parlent d'elles-mêmes":
+			1) Parler à propos de soi
+			2) Parler de façon spontanée
+	- dialogue; "on se soucie du monde commun"
+		- la distinction entre la conversation intime et le dialogue c'est quand dans la conversation intime on a deux individus qui vont parler d'eux mêmes. C'est privé.
+		- dans les dialogues, les individus parlent d'une chose commune. C'est public.
+- il ne sufit pas que le monde soit culturellement/techniquement modifié pour qu'il soit humain. Arendt explique que la transofmraiton technique ou culturelle n'est pas un cirtère suffisant pour déterminer le monde humain. On peut imaginer des endroits naturels, humains car objets de discours
