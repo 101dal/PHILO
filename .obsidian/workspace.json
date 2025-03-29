@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Chapitre 3"
             }
-          },
-          {
-            "id": "d647800543cf5f6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Définitions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Définitions"
-            }
           }
         ]
       },

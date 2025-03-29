@@ -81,7 +81,8 @@ Platon suit la logique d'Aristote, l'Acrasie (être acratique): réaliser une ch
 Par exemple dans *Hunger Games*, je connais la chose bonne à faire mais j'agis mal.
 De la même manière, dans *Médée* de Sénèque, Jason quitte Médée pour Créuse (la fille de Créon) donc Médée l'empoisonne et tue ses propres enfants.
 
-> "Je vois le meilleurs et je t'approuve, mais je fais le pire" - Ovide
+> [!quote] *Les Métamorphoses* - VII, 20 - Ovide
+>  "Je vois le meilleurs et je t'approuve, mais je fais le pire"
 
 Avoir un sens naturel de la justice n'est pas suffisant, pour agit justement on a donc besoin de l'Etat pour nous contraindre, au moyen de la loi, à agit justement.
 
