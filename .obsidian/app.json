@@ -1,5 +1,8 @@
 {
   "livePreview": false,
   "readableLineLength": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "rightToLeft": false
 }

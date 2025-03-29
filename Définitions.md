@@ -66,3 +66,21 @@ la vérité: c'est l'objectivité: la correspondance entre un discours et la ré
 **Loi** : Mise en relation causale entre une action et une sanction
 
 **Droit** : ensemble des lois d'un Etat = droit "juridique"
+
+**Etat de nature** : moment où les individus vivent sans Etat
+
+**Mode de production** : manière dont on va s'organiser pour produire des choses.
+
+**Capitalisme** : courant économique qui vise l'accumulation des richesses individuelles.
+
+**Anarchisme** : courant politique qui nait au milieu du XIXe siècle en Europe dans laquelle la priorité est mise sur la liberté des individus.
+
+**Fédéralisme** : pouvoir partagé horizontalement ^6728de
+
+**Mutualisme** : échanges se font sur la base de la réciprocité. ^a01f7d
+
+**Sphère privée** : Nous en tant que personne dans les relations amicales ou familiales ^b36490
+
+**Sphère publique** : Existence politique ^9156d7
+
+**Constitution** : ensemble des lois qui organisent la répartition des pouvoirs. ^8367b4

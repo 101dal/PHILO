@@ -33,7 +33,9 @@ Problématique: "A quoi sert l'Etat?"
 
 ## <font color="#ff0000">I) L'Etat a une utilité qui est même une nécessité en ce qu'il garantit la justice et la liberté.</font>
 ### <font color="#0070c0">A) Le sens de la justice n'est pas naturel donc nous devons avoir un Etat pour être juste.</font>
-- Platon, *République*, II, Socrate discute avec Glaucon
+> [!cite] Platon
+>*République*, II,
+>Socrate discute avec Glaucon
 
 Méthode socratique, la maïeutique: mettre en scène un personnage qui fait semblant de ne rien savoir mais qui sait tout contre des personnages qui croient tout savoir.
 - Gygès le Lydien -> Mythe
@@ -74,21 +76,139 @@ Par exemple, Amartya Sens dans *L'idée de justice*, 2009 nous demande à quel e
 
 Cela questionne sur le sens de la justice, on a pas tous la même mais on est persuadé de ce qui est juste ou non. Quand bien même je sais ce qui est juste, cela ne veut pas dire que je vais agir selon la justice.
 
+Platon suit la logique d'Aristote, l'Acrasie (être acratique): réaliser une chose mauvaise en sachant qu'elle est mauvaise.
+
+Par exemple dans *Hunger Games*, je connais la chose bonne à faire mais j'agis mal.
+De la même manière, dans *Médée* de Sénèque, Jason quitte Médée pour Créuse (la fille de Créon) donc Médée l'empoisonne et tue ses propres enfants.
+
+> "Je vois le meilleurs et je t'approuve, mais je fais le pire" - Ovide
+
+Avoir un sens naturel de la justice n'est pas suffisant, pour agit justement on a donc besoin de l'Etat pour nous contraindre, au moyen de la loi, à agit justement.
+
+### <font color="#0070c0">B) L'Etat doit garantir le bon exercice de la justice. C'est-à-dire nous faire passer de la vengeance à la punition</font>
+> [!quote]- *Second Traité du gouvernement civil* - Locke
+
+
+
+##### <font color="#00b050">La justice comme institution</font>
+[[Justice| Notion de Justice]]
+
+Premièrement, on peut penser que la loi juridique est fondée sur ce qui est légitime: il y a des lois injustes. Par exemple, les lois de Nuremberg (15/09/1935) avec la loi sur la protection du sang Allemand et de l'honneur Allemand, contre les Juifs.
+
+Exercice:
+1) Trouver les parties du texte:
+	1) Locke dit que l'homme a des droits par nature en affirmant sa thèse et en faisant une description des droits naturels
+	2) Locke explique que la société politique advient lorsqu'un groupe a renoncé à l'exercice individuel des droits de nature. Il fait cela en donnant la définition conditionnelle de la société politique
+	3) Locke explique que la société permet de retirer le pouvoir de jugement inéquitable de l'homme pour obtenir un jugement égal et neutre pour tous: on obtient un arbitre en perdant le droit à la vengeance en donnant la conséquence de sa définition.
+2) Trouver la thèse du texte
+<u>Thèse</u>: une <u>société politique</u>(II) advient lorsque tout homme renonce à l'exercice de ses droits <u>naturels</u>(I); instaurant alors un <u>arbitre</u>(III) neutre.
+<u>Antithèse</u>: la société politique advient lorsque les droits naturels sont respectés en tant que tels
+<u>Problème</u>: Comment advient une société politique?
+
+##### Légitime $\to$ légal
+- On distingue:
+	- Légitime
+		- Conformité à la loi morale:
+			- Conscience: morale (loi naturelle)
+			- Raison: impératif catégorique
+	- Légal
+		- Conformité à la loi juridique
+
+Selon Locke, ce qui est légal doit provenir de ce qui est légitime. Pour trouver les lois juridiquement, il faut correspondre aux lois morale. La légitimité (naturelle donc différent de culturelle) donne la légalité
+L'ensemble des lois naturelles sont faites pour protéger et sont garanties par l'Etat de nature (différent de l'Etat civil) mais cela reste une fiction:
+
+Naturellement, nous avons es droits:
+1) La liberté: ne pas être empêché de faire ce que je veux
+2) La propriété: garder ce qui est à moi dans le temps
+3) La défense: le droit à la vengeance, punir de manière subjective
+
+Le rôle de l'Etat c'est de s'assurer que nous puissions ensemble exercer nos droits naturels.
+Ainsi, l'Etat de nature n'est pas souhaitable. L'Etat règle les problèmes de l'Etat de nature et garantit le respect des droits naturels.
+
+Pour faire cela, il faut établie un pouvoir politique de l'Etat qui permet le bon exercice de la justice. Il faut 4 conditions:
+1) La justice doit être publique (ne dépend pas de nous)
+2) Elle doit être un intermédiaire entre les individus
+3) Elle doit fonctionner au moyen de lois qui s'appliquent à tout le monde
+4) Elle fonctionne grâce à des individus qui travaille pour l'Etat de manière impartiale et sans intérêt privé
+
+### <font color="#0070c0">C) L'Etat est ce qui fait passer notre liberté idéale au plan concret</font>
+> [!quote]- *Le Léviathan* - Hobbes - 1651
+> "De cette égalité des aptitudes découle une égalité dans l'espoir d'atteindre nos fins. C'est pourquoi, si deux hommes désirent la même chose alors qu'il ne leur est pas possible d'en jouir tous les deux, ils deviennent ennemis. Et dans leur poursuite de cette fin (qui est, principalement, leur propre conservation, mais parfois seulement leur plaisir), chacun s'efforce de détruire et dominer l'autre."
+
+**agrément**: ce qui est agréable
+
+1) "Egalité des aptitudes"
+	- "Egalité": même quantité
+	- "Aptitudes": capacité de faire, d'agir
+	- Les individus ont la même capacité d'action. Mais est-elle relative à quelque chose, est-ce à la force? Cette capacité est une capacité de fait (comme sauter ou voler), elle s'oppose à la capacité de droit
+2) "découler": lien de causalité
+3) "ennemis": intérêts conflictuels, en opposition, faire du mal. Ce conflit est créé pour satisfaire un désir ou pour obtenir une ressource
+4) "Egalité dans l'espoir d'atteindre nos fins":
+	- "espoir d'atteindre": vouloir et croire qu'on puisse l'obtenir. Suppose une confiance en nos capacités
+	- "fins": nos buts
+5) Les liens logiques:
+	- "Découle": part de la cause pour aller à la conséquence
+	- "si", "ils": créé un raisonnement:
+		- Prémice 1: Si deux hommes...
+		- Prémice 2: il n'est pas possible...
+		- Conclusion: ils deviennent ennemis
+	- "et dans...": il complète pour donner une définition d'"ennemis"
+6) Comment passe-t-on de l'égalité des aptitudes à la domination et la destruction:
+Egalité des aptitudes $\to$ égalité dans l'espoir d'atteindre nos fins $\to$ 2 hommes, puisqu'ils désirent la même chose et qu'il n'est pas possible qu'ils en jouissent tous deux, deviennent ennemis $\to$ l'un veut détruire l'autre
+7) Plan du texte:
+	1) Il y a entre les hommes un égalité des aptitudes
+	2) En raison de cette égalité les hommes deviennent ennemis
+	3) C'est pourquoi ils cherchent à se détruire et à se dominer.
+
+##### <font color="#00b050">L'Etat de nature est la guerre de tous contre tous</font>
+> [!quote] "L'homme est un loup pour l'homme" - Hobbes
+
+
+Ici, Hobbes fait une distinction entre l'<font color="#ff0000">Etat de nature</font> et l'<font color="#ff0000">Etat civil (l'Etat)</font>
+L'Etat de nature est pensé avec la question: "Et s'il n'y avait pas de politique?"
+Chez Hobbes, l'Etat de nature c'est la guerre, c'est mauvais. Mais cela reste une fiction, une hypothèse, car il n'existe pas et/ou n'a jamais existe. On doit observer une distinction:
+- Etat de nature
+	- Sans Etat
+	- Fiction, hypothèse
+	- Anthropologie
+	- La guerre vient de l'égalité dans les capacités (mais on peut quand même avoir des habilités différentes)
+- Etat civil
+	- Etat
+
+La conséquence néfaste de l'insécurité généralisée c'est que quand bien même nous sommes libres dans l'Etat de nature, nous ne pouvons pas jouir de ces libertés.
+
+[[Liberté | Notion de liberté]]
+
+##### <font color="#00b050">L'Etat garantit notre sécurité et donc notre liberté</font>
+La liberté métaphysique mène à l'insécurité. C'est le moment où les individus passent un contrat ou un pacte.
+
+> [!quote] "Elle est solutaire, misérable, dangereuse, animale et brève" - Hobbes sur la nature
+
+Par conséquent, nos libertés passent par une seule personne: le $\boxed{\text{Léviathan}}$. Le Léviathan est un état fort, puissant, qui va nous permettre d'obtenir la sécurité et ainsi la liberté politique (l'Etat-Léviathan);
+
+<font color="#ff0000">Pour Hobbes, l'Etat c'est ce qui fait passer la licence à la liberté politique.</font>
+
+L'Etat Léviathan est dangereux et impose la peur car il impose son respect par la force et la puissance pour faire respecter la loi. Par exemple le plan Vigipirate de 1994.
+
+----
+Transition: On ne peut pas se gérer seuls donc il nous faut un Etat pour nous gérer.
+On passe de l'Etat de nature, une hypothèse et fiction, à un Etat civil par un contrat social (Rousseau)
+Présupposé 1: cette idée repose sur l'idée selon laquelle nous avons besoin de sortir de l'Etat de nature parce qu'il est mauvais et pas souhaitable
+Présupposé 2: l'Etat instauré sert à tous les participants au contrat
+
+----
+
 
 ## <font color="#ff0000">II) Nous n'avons pas besoin de l'Etat car nous pouvons nous organiser en société sans lui. Il faut même l'abolir ar il est un instrument de domination illégitime</font>
 ### <font color="#0070c0">A) L'Etat ne sert qu'à garantir les intérêts d'une classe dominante sur un autre</font>
-- Marx, *Le Capital*
-- Engels, *L'origine de la famille, de la propriété privée et de l'Etat*
 
-##### Le mode de production capitaliste:
-Selon Marx, le capitalisme est défini par un certain mode de production et un état des forces productives
+> [!quote] *Le Capital* - Karl Marx
+
+##### <font color="#00b050">Le mode de production capitaliste</font>
+<font color="#ff0000">Selon Marx, le capitalisme est défini par un certain mode de production et un état des forces productives</font>
 Le capitalisme a deux objectifs:
 - le rendement : efficacité, maximiser la rapidité
 - coût: bénéfices économiques $\implies$ gagner de l'argent
-
-mode de production: manière dont on va s'organiser pour produire des choses
-capitalisme: courant économique qui vise l'accumulation des richesses individuelles
-
 
 Pourquoi acceptons nous que certaines personnes soient riches alors que d'autres vivent dans la pauvreté?
 
@@ -112,27 +232,23 @@ Pour Marx, le capitalisme repose sur cette distinction. Il décrit donc non pas 
 
 Profit = {Prix de vente} - {coût de production}
 
-Le défaut du mode de production capitaliste est qu'il va transformer le travail. Pour Marx, le travail est une activité de la transformation de la nature qui est libre et libératrice (ce qui nous rend libre)
+Le défaut du mode de production capitaliste est qu'il va transformer le travail. <font color="#ff0000">Pour Marx, le travail est une activité de la transformation de la nature qui est libre et libératrice (ce qui nous rend libre)</font>
 
-___
-La Nature
-Il y a deux descriptions de la nature possible:
-- Scientifique: ensemble de la réalité matérielle + connaissable + différente de l'homme
-- Métaphysique: l'essence d'une chose (ce qu'une chose est, ce qui fait qu'elle est ce qu'elle est et pas autre chose que ce qu'elle est)
-___
+[[Nature | Notion de la Nature]]
 
 Le travail est libre car c'est une activité qui présuppose la représentation d'une fin. Pour Marx, les animaux produisent sans travailler (les abeilles et les araignées). Ainsi dans le travail il y a l'imagination et la conscience.
 
 Pour Marx, le travail n'est plus libre et libérateur dans le mode de production capitaliste. Il est transformé: les producteurs ne font plus une activité de transformation de la nature libre et libératrice.
 1) Le rapport à la machine ne suppose plus la représentation d'une fin (ex: surveiller que la machine fonctionne)
-2) Le producteur n'est pas réminéré pour l'objet du travail mais par la force de travail (capacité mesurable de produire). Ex: faire n voitures/jour on a une rémunération en fonction de la capacité de travail, indépendamment du type de voiture et en fonction du nombre de voitures produits
+2) Le producteur n'est pas rémunéré pour l'objet du travail mais par la force de travail (capacité mesurable de produire). Ex: faire n voitures/jour on a une rémunération en fonction de la capacité de travail, indépendamment du type de voiture et en fonction du nombre de voitures produits
 
 Marx interprète cela comme étant un rapport entre la bourgeoisie et le prolétaire. C'est un rapport d'exploitation
 
-##### L'Etat et l'idéologie
+##### <font color="#00b050">L'Etat et l'idéologie</font>
 L'idéologie capitaliste est perpétuée par l'Etat involontairement. Il faut en effet distinguer l'Etat (structure) et les gouvernants (individus). L'Etat ce n'est pas la même chose que ses membres.
 
-- Engels, L'origine de la famille, de la propriété privée et de l'Etat, 1884
+> [!quote]- *L'origine de la famille, de la propriété privée et de l'Etat* - Engels
+> "Comme l’État est né du besoin de refréner des oppositions de classes, mais comme il est né, en même temps, au milieu du conflit de ces classes, il est, dans la règle, l’État de la classe la plus puissante, de celle qui domine au point de vue économique et qui, grâce à lui, devient aussi classe politiquement dominante et acquiert ainsi de nouveaux moyens pour mater et exploiter la classe opprimée. C’est ainsi que l’État antique était avant tout l’État des proprié­taires d’esclaves pour mater les esclaves, comme l’État féodal fut l’organe de la noblesse pour mater les paysans serfs et corvéables, et comme l’État représentatif moderne est l’instrument de l’exploitation du travail salarié par le capital."
 
 L'Etat apparait pour répondre au problème du conflit entre les classes qui justifie son apparition. Cela ressemble aux théories contractualiste de l'Etat (comme Hobbs):
 1) ~~Etat de Nature~~ (hypothétique)-> mode de production capitaliste (scientifique, économique)
@@ -142,3 +258,171 @@ L'Etat apparait pour répondre au problème du conflit entre les classes qui jus
 Ex:
 - Entreprise côtées en bourse avec les actionnaires
 - pouvoir d'achat.
+
+La question de l'utilité de l'Etat n'est pas évidente puisque demander à quoi sert quelque chose c'est aussi se poser la question sur "A <u>qui</u> ça sert".
+Le système de production capitaliste garantit l'exploitation, provoquée par l'Etat, du prolétariat par la bourgeoisie.
+L'Etat:
+- A qui ça sert?
+- "ça dépend": critère de démarcation pour ne pas faire une partie insatisfaisante car relativiste. Ici on peut dire "ça dépend" des gens mais on doit précise exactement
+
+### <font color="#0070c0">B) L'Etat n'est pas le garant de ma liberté mais il est son premier ennemi. C'est pourquoi il faut l'abolir.</font>
+> [!quote]- *Fédéralisme, socialisme, antithéologisme* - Bakounine
+> "La liberté est indivisible : on ne peut en retrancher une partie sans la tuer tout entière. Cette petite partie que vous retranchez, c'est l'essence même de ma liberté, c'est le tout."
+> 
+> "C'est l'histoire de la femme de Barbe-Bleue, qui eut un palais à sa disposition avec la liberté pleine et entière de pénétrer partout, de voir et de toucher tout, excepté une mauvaise petite chambre (...) Eh bien, se détournant de toutes les magnificences du palais, son âme se concentra tout entière sur cette mauvaise petite chambre : elle l’ouvrit, et elle eut raison de l’ouvrir, car ce fut un acte nécessaire de sa liberté"
+
+##### <font color="#00b050">L'anarchisme et la liberté</font>
+Dans l'anarchisme on retire toute restriction de liberté. Il est différent le anomie (a-Nomos) où on ne retire que les lois.
+Dans l'anarchisme, la liberté c'est la licence (action) et le libre arbitre (choix).
+
+Pour Kant dans *Qu'est-ce que les Lumières?* nous devons distinguer deux états pour l'homme:
+- un état d'autonomie où on se donne sa propre loi
+- un état d'hétéronomie où une chose différente de nous nous donne sa loi
+
+Pour Kant, les lois et règles sont sous la forme de Maximes. Si elles viennent de ma raison alors elle ne viennent que de moi et je suis auteur de l'action. C'est la raison pratique, la loi morale.
+Etre autonome c'est penser par soi-même. Ça vient de moi, de ma raison, ça forme une loi morale composant la morale
+Etre hétéronome c'est des lois/sentiments et l'Etat dit ce qu'il faut faire
+
+> [!quote] "Ni dieux ni loi"
+
+La liberté est absolue dans l'anarchisme.
+Pour les anarchistes on ne peut pas atteindre la liberté car c'est un absolu. Comme le temps, la liberté est en soi, absolue: soit on est libre ou bien on ne l'est pas. On ne peut pas être plus ou moins libre: c'est la qualité et non la quantité.
+L'acte nécessaire de sa liberté c'est la désobéissance.
+
+Prémice 1: Le plus important c'est la liberté individuelle
+Prémice 2: Par le pouvoir qu'il exercice, l'Etat supprime totalement cette liberté
+Conclusion: Il faut abolir l'Etat
+
+##### <font color="#00b050">Une objection possible</font>
+Comme pour le contractualistes, de même que dire que dans l'Etat de nature c'est le chaos c'est problématique car l'Etat de nature est une fiction, dire que sans Etat tout se passerait bien, c'est aussi problématique parce que c'est une fiction.
+
+**Première réponse:**
+> [!quote]- *Gargantua* - Rabelais - 1542
+> "Toute leur vie était dirigée non par les lois, des statuts ou des règles, mais selon leur volonté et leur libre-arbitre. Ils sortaient du lit quand bon leur semblait, buvaient, mangeaient, travaillaient, dormaient quand le désir leur en venait. Nul ne les éveillait, nul ne les forçait ni à boire, ni à manger, ni à faire quoi que ce soit. Ainsi en avait décidé Gargantua. Toute leur règle tenait en cette clause : FAIS CE QUE VOUDRAS, car des gens libres, bien nés, bien éduqués, vivant en honnête compagnie, ont par nature un instinct et un aiguillon qui pousse toujours vers la vertu et les éloigne du vice ; c'est ce qu'ils nommaient l'honneur."
+> 
+> "Ceux-ci, quand ils sont écrasés et asservis par une vile sujétion ou une contrainte, se détournent de la noble passion par laquelle ils tendaient librement à la vertu, afin de démettre et d’enfreindre ce joug de servitude ; car nous entreprenons toujours les choses défendues et convoitons ce qui nous est refusé."
+
+
+Il propose la description de l'abbaye de Thélème om des moines parviennent à vivre sans pouvoir supérieur. Ils sont capables de 'auto-gérer (autonomie). C'est humanisme de la renaissance, l'homme est capable de se gérer.
+
+La première partie dit que les moines vivent "sans lois", "sans règles" mais selon leur "volonté" et leur "libre-arbitre". Opposition entre hétéronomie et autonomie. C'est une description positive. La 2e phrase répète tout de manière négative "nul". Après la description précise, Rabelais généralise: "FAIS CE QUE VOUDRAS". Par la suite, par <u>nature</u>, l'homme est <u>moral</u> (contraire à ce que dit Platon).
+Pourtant on a l'impression que c'est grâce à la <u>culture</u> qu'on est vertueux "bien nés, bien éduqués"... Néanmoins: "par nature un instinct et un aiguillon qui pousse toujours vers la vertu". Ainsi, si nous sommes bien éduqués alors nous avons l'aiguillon. Mais donc si nous ne sommes pas bien éduqués alors on a pas l'aiguillon. Par conséquence, cet aiguillon naturel vers la vertu peut être perdu par manque d'éducation.
+Ainsi, la sociabilisation rend immoraux.
+Dans son deuxième paragraphe, Rabelais dit que ce qui nous rend mauvais, c'est une conséquence directe de la forme de la loi.
+Cet aiguillon, c'est l'<font color="#ff0000">honneur</font>, corrompu par la loi hétéronome.
+
+**Deuxième réponse:**
+> [!quote]- *La société contre l'Etat* - Pierre Clastres - 1974
+> "Il n’y a donc pas de roi dans la tribu, mais un chef qui n’est pas un chef d’État. Qu’est-ce que cela signifie? Simplement que le chef ne dispose d’aucune autorité, d’aucun pouvoir de coercition, d’aucun moyen de donner un ordre. Le chef n’est pas un commandant, les gens de la tribu n’ont aucun devoir d’obéissance. _L’espace de la chefferie n’est pas le lieu du pouvoir_, et la figure (bien mal nommée) du « chef »sauvage ne préfigure en rien celle d’un futur despote. […]
+> En quoi le chef de la tribu ne préfigure-t-il pas le chef d’État ? […] Ce qu’il s’agit de penser, c’est un chef sans pouvoir, une institution, la chefferie, étrangère à son essence, l’autorité. Les fonctions du chef, telles qu’elles ont été analysées ci-dessus, montrent bien qu’il ne s’agit pas de fonctions d’autorité. Essentiellement chargé de résorber les conflits qui peuvent surgir entre individus, familles, lignages, etc., il ne dispose, pour rétablir l’ordre et la concorde, que du seul _prestige_ que lui reconnaît la société. Mais prestige ne signifie pas pouvoir, bien entendu, et les moyens que détient le chef pour accomplir sa tâche de pacificateur se limitent à l’usage exclusif de la parole, non pas même pour arbitrer entre les parties opposées, car le chef n’est pas un juge, il ne peut se permettre de prendre parti pour l’un ou l’autre ; mais pour, armé de sa seule éloquence, tenter de persuader les gens qu’il faut s’apaiser, renoncer aux injures, imiter les ancêtres qui ont toujours vécu dans la bonne entente. Entreprise jamais assurée de la réussite, pari chaque fois incertain, car _la parole du chef n’a pas force de loi_. Que l’effort de persuasion échoue, alors le conflit risque de se résoudre dans la violence et le prestige du chef peut fort bien n’y point survivre, puisqu’il a fait la preuve de son impuissance à réaliser ce que l’on attend de lui."
+> .
+> "L'Etat serait la destination de la société, et la progrès des sociétés se mesurerait à leur capacité à instaurer un Etat. C'est en fait un critère européen: "On décèle en cette démarche un encrage ethnologique d'autant plus solide qu'il est le plus souvent inconscient. La réf immédiate, spontanée, c'est sinon le mieux connu, en tout cas le plus familier. Chacun de nous porte en soi, intériorisée comme la foi du croyant, cette certitude que la société est pour l'Etat".
+
+Il montre qu'il existe actuellement des sociétés non coercitif, des sociétés dans Etat
+Si on est propriétaire de quelque chose c'est par ce que quelqu'un (les anciens propriétaires) nous a transféré la propriété de cette chose. Ainsi la propriété implique qu'une personne avait l'antécédent sur la propriété.
+
+Pierre Clastres est un ethnologue, il étudie les cultures
+L'ethnologie s'intéresse aux formes de cultures. Il faut abandonner la hiérarchisation des cultures (avec Lévi-Strauss par exemple). L'absence d'Etat n'est pas un défaut mais un choix conscient.
+Exemple des Guyaki (tribu), on oppose
+- Le chef d'Etat qui commande et dirige avec le pouvoir
+- La chefferie (chef de tribut) qui n'a aucun pouvoir
+
+"Le Chef n'est pas un commandant, les gens de la tribut n'ont aucun devoir d'obéissance":
+- "commandant": ordre=impératif. On a l'obligation par la contraire
+- "devoir d'obéissance": 
+	- Le devoir est moral (obéir en soi c'est se conformer donc garantir l'odre public pour que nous ne puissions pas déranger les autres) ou juridique (la désobéissance entraine la sanction).
+	- Obéir c'est se soumettre à la volonté.
+
+### C) Il faut substituer à l'Etat une organisation qui ne repose pas sur la propriété
+> [!quote] *Second traité du gouvernement civil* - Locke - 1690
+> "29. (…) L'eau qui coule d'une fontaine publique appartient à chacun; mais si une personne en a rempli sa cruche, qui doute que l'eau qui est contenue, n'appartienne à cette personne seule? Sa peine a tiré cette eau, pour ainsi dire, des mains de la nature, entre lesquelles elle était commune et appartenait également à tous ses enfants, et l'a appropriée à la personne qui l'a puisée."
+
+
+##### <font color="#00b050">D'où vient la propriété</font>
+Si on est propriétaire de quelque chose c'est parce que l'ancien propriétaire nous a transféré la propriété. Selon Locke, le travail fonde la propriété.
+
+[[Origine - Fondement]]
+
+Selon Locke, l'eau appartient à chacun et la nature appartient à tous car elle est publique. La peine faite pour obtenir une ressource légitime le droit d'en disposer (par exemple: remplit sa gourde à la fontaine fait que l'eau de la gourde nous appartient).
+
+<u>Remarque</u>: Nozick est contre la propriété car cette définition ne légitime pas tout; il faut répartir de nouveau pour Reset $\neq$ Rawls
+
+> [!quote]- *Qu'est-ce que la propriété?* - Proudhon - 1880
+
+Il va refuser refuser la clause Lockienne de la propriété: ce n'est pas au travail de fonder la propriété puisque:
+> [!quote]- "La propriété c'est du vol" - Proudhon
+
+Le fait de s'approprier quelque chose c'est déjà un vol car si on s'approprie on prend quelque chose qui appartenant déjà à un personne.
+Pour que Locke fonctionne, il faut que le fondement de la propriété soit que rien n'appartient à personne. Pour Proudhon, à l'inverse, le fondement c'est que tout appartient à tout le monde: "à chacun". C'est le passage du public au privé qui est mauvais. On ne devrait pas avoir la propriété des moyens de production. A chacun possède ce dont il a besoin. Pour Proudhon la justice serait la répartition proportionnelle.
+
+##### Une démocratie ouvrière
+[[Définitions#^6728de | Fédéralisme]] et [[Définitions#^a01f7d| Mutualisme]]
+
+----
+Transition:
+Partie 1: L'Etat apporte quelque chose de positif à l'humain
+Partie 2: L'Etat apporte quelque chose de négatif à l'humain.
+
+----
+
+## <font color="#ff0000">III) L'Etat nous permet de réaliser notre humanité véritable car il nous éloigne de l'animal en nous rendant proprement humain.</font>
+### <font color="#0070c0">A) L'Homme n'est proprement humain que dans la cité</font>
+
+Dans la démocratie Athénienne il y avaient:
+- la représentation directe $\neq$ représentation
+- Egalité devant la loi $\to$ isonomie
+- Restriction de la <u>citoyenneté</u>: cens
+
+> [!quote] *Les politiques* - Aristote
+> "La cité est au nombre des réalités qui existent naturellement. L'Homme est par nature un animal politique"
+
+Il faut séparer la Cité de l'Etat:
+- Cité: conjugaison de la [[Définitions#^b36490 | sphère privée]] et la [[Définitions#^9156d7 | sphère publique]]
+- Etat: Séparation du privé et du public
+
+En quoi la cité existe-t-elle naturellement?
+Selon Aristote, la cité est un objet naturel. Au contraire de l'Etat contractualiste. Dans son livre I des *Politiques*, il explique la genèse de la cité:
+1) Le couple est naturel
+2) Avec les enfants il créé la famille
+3) Grâce aux échanges se créé un village
+4) Avec la <font color="#ff0000">discussion</font> et la communication le village s'organise en Cité.
+
+Cité: on organise le débat public de manière rationnelle, en utilisant le logos.
+L'Homme est une animal politique car naturellement il va s'organiser en cité pour organiser un espace de discussion commune, rationnelle.
+Ces raisonnements sont objectifs car ils dépendent de la forme et non des arguments: la raison fait <font color="#ff0000">abstraction</font> des détails au profit de la forme.
+
+<u>La vertu de l'homme c'est de vivre en cité.</u>
+
+> [!quote]- *Race et Histoire*- Chapitre 3 - Lévi-Strauss
+> "Ainsi l'Antiquité"
+
+La discussion commune est un dialogue.
+1) "L'humanité cesse aux frontières de la tribu, du groupe linguistique et parfois même du village."
+Le mot "barbare" se réfère étymologiquement à la confusion et à l'inarticulation du chant des oiseaux, opposé à la valeur signifiante du langage humain.
+
+Selon Aristote et Lévi-Strauss
+- Confusion/inarticulation $\to$ animaux.
+	- c'est la phôné, ne signifie pas mais exprime l'agréable ou le désagréable.
+- Valeur signifiante $\to$ humains.
+	- C'est le logo qui a une valeur signifiante car exprime un contenu conceptuel.
+	- <font color="#ff0000">Le langage articulé procédant avec des phonèmes</font> (unités minimales de son):
+		- Ces phonèmes articulés forment des mots
+		- Un phonème n'a pas de sens en soi
+		- Les <font color="#ff0000">mots sont des unités minimales de sens. C'est la sémantique qui associe un mot à la réalité</font>
+		- Les mots articulés forment des phrases. C'est la syntaxe qui fait cela.
+		- Les phrases articulées forment des discours.
+
+[[Essence - Accidentel]]
+
+<font color="#ff0000">Signifier donne le contenue conceptuel alors qu'exprimer ce n'est que de l'ordre des émotions ou du sentiment.</font>
+
+<font color="#ff0000">L'Etat actualise notre humanité car elle fait que nous sommes humains en acte et pas seulement en puissance.</font>
+
+Aristote dit donc que l'homme est un animal politique, qui est équivalent à dire qu'il est doté de logos, donc les autres sont nécessaires. Ainsi, le barbare qui n'est pas dans la cité est soit un sous-homme (un animal) soit un surhomme (un dieu), mais donc en aucun cas un homme.
+
+Par exemple, un perroquet. Selon Brandon, sa signification est un rôle inférentiel. Par exemple, si moi je dis "La table est rouge", je comprend tous les présupposés conceptuels. A l'inverse, si un perroquet dit "La table est rouge", il ne comprend pas tous les concepts, si je lui demande "la table est-elle colorée" il répondrait "je ne sais pas".
+
+### <font color="#0070c0">B) L'Etat permet de garantir l'exercice d'une justice proprement humaine.</font>
+> [!quote]- *L'Ethique à Nicomaque* - Aristote
+
+Pour Aristote, la justice c'est savoir à qui on doit donner. Comment être juste et bon? C'est grâce à la [[Définitions#^8367b4|constitution]] qu'on va être juste.
