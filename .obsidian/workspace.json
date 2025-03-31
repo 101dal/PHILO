@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f54ada9d21b401b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "787c9e2a7520bdd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitres/Chapitre 3.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 3"
-            }
-          }
-        ]
-      },
-      {
         "id": "bab150d97e1e1fb5",
         "type": "tabs",
         "children": [
@@ -185,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "787c9e2a7520bdd9",
+  "active": "400929e2f990d630",
   "lastOpenFiles": [
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Chapitre 3.md",
