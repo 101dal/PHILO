@@ -2,6 +2,7 @@ En dissertation il faut idéalement un total de $9$ paragraphes:
 Pour un paragraphe on annonce l'idée, ensuite on donne l'argument puis on annonce l'exemple et on l'analyse. Finalement, on résume l'idée. L'exemple est une illustration et non une preuve. Une preuve est universelle tandis que l'exemple est particulier.
 
 ### La [[Problématisation]]
+![[Problématisation]]
 
 ### La transition
 Entre chaque partie il faut nécessairement une transition, cruciale. Pour faire une transition il faut montrer ce qu'on veut faire, d'où on vient, où on veut aller et pourquoi on y vas pour prouver que la première réponse n'est pas suffisante et qu'il en fait une deuxième

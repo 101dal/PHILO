@@ -51,11 +51,11 @@ la vérité: c'est l'objectivité: la correspondance entre un discours et la ré
 **contradictoire**: nécessairement faux
 
 ### Chapitre 3
-**Nation** : Communauté humaine partageant une culture, une histoire et un sentiment d'appartenance commun.
+**Nation** : Communauté humaine partageant une culture, une histoire et un sentiment d'appartenance commun. ^777200
 
-**Pays** : Territoire délimité sur lequel s'exerce l'autorité d'un État.
+**Pays** : Territoire délimité sur lequel s'exerce l'autorité d'un État. ^88ced8
 
-**Société** : Ensemble des individus vivant en communauté et développant des interactions ainsi que des relations sociales propres.
+**Société** : Ensemble des individus vivant en communauté et développant des interactions ainsi que des relations sociales propres. ^fbe25c
 
 **État** : Cadre institutionnel à l'intérieur duquel s'exerce le pouvoir politique. Il s'agit d'une structure dotée d'institutions qui exercent leur autorité sur un territoire et une population donnés.
 

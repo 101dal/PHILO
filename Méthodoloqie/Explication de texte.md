@@ -19,7 +19,7 @@ On cite le texte et on l'explique, on dit ce que fait l'auteur et on décrit ce 
 Expliquer:
 - local:
 	- définir les termes
-	- expliquer leurs signifiations
+	- expliquer leurs significations
 	- interpréter
 - global
 	- objet: de quoi parle le texte? (1 ou 2 notions)
