@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitres/Chapitre 3.md",
-                "mode": "preview",
+                "file": "Fiches révision/Chapitre 3.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitres/Test.md",
+                "file": "Fiches révision/Chapitre 3.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Chapitre 3"
             }
           }
         ]
@@ -185,10 +185,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "400929e2f990d630",
+  "active": "9d925209819e37f5",
   "lastOpenFiles": [
-    "Chapitres/Test.md",
     "Chapitres/Chapitre 3.md",
+    "Fiches révision/Chapitre 3.md",
+    "Définitions.md",
+    "Fiches révision",
+    "Chapitres/Test.md",
     "Chapitres/Chapitre 2.md",
     "Méthodoloqie/La dissertation.md",
     "Méthodoloqie/Problématisation.md",
@@ -198,7 +201,6 @@
     "Travaux écrits/Rédaction Léviathan.md",
     "Chapitres/Chapitre 1.md",
     "Notions/Bonheur.md",
-    "Définitions.md",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
     "Chapitres/Nouveau dossier",
@@ -219,12 +221,10 @@
     "source/raw_html/raw-html-test.html",
     "source/raw_html",
     "source/quartz/util/trace.ts",
-    "source/quartz/util/sourcemap.ts",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
     "source/docs/tags/plugin.md",
     "source/docs/tags/component.md",
-    "source/docs/plugins/index.md",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/github-init-repo-options.png",
     "source/docs/images/quartz-layout-mobile.png",
