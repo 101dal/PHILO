@@ -1,9 +1,3 @@
-Absolument, tu as raison. Isoler les mots-clés peut les rendre moins parlants. Je vais les intégrer directement dans les explications des arguments pour que leur rôle soit plus clair.
-
-Voici la fiche de révision remaniée :
-
----
-
 ## <center> Fiche de Révision - Philosophie </center>
 # <center> <font color="#B22222">Thème : À quoi sert l'État ?</font> </center>
 
@@ -109,13 +103,3 @@ Voici la fiche de révision remaniée :
 *   **Auteur & Texte :** <font color="#228B22">Hannah Arendt</font>, *Condition de l'homme moderne* / *Vies politiques*.
 *   **Argument Clé :** Arendt distingue la <font color="#800080">**sphère privée**</font> (liée aux nécessités de la vie, à la famille) de la <font color="#800080">**sphère publique**</font>. C'est dans cet **espace public**, où les citoyens apparaissent les uns aux autres comme égaux, que se déploie l'**action politique**, principalement à travers la parole et le **dialogue**. Le monde ne devient proprement **humain**, signifiant pour nous, que lorsque nous pouvons en parler ensemble, débattre de ce qui nous est **commun**.
 *   **Rôle de l'État (implicite) :** L'État (ou la Cité) a pour fonction essentielle de créer et de préserver cet **espace public** de discussion et d'action. C'est par ce **dialogue** sur le **monde commun**, rendu possible par les institutions politiques, que les hommes affirment leur pluralité, donnent sens à leur existence collective et se réalisent comme êtres humains au-delà de leurs besoins biologiques ou de leurs intérêts privés.
-
----
-
-**Conseils pour le DS :**
-*   ✅ Comprendre le rôle des **concepts clés** (<font color="#800080">intégrés aux arguments</font>) pour chaque auteur.
-*   ✅ Maîtriser les **arguments principaux** des **auteurs** (<font color="#228B22">en vert</font>).
-*   ✅ Pouvoir **comparer/opposer** les grandes visions (<font color="#B22222">Parties I vs II vs III</font>) sur le rôle et la légitimité de l'État.
-*   ✅ Savoir **mobiliser ces connaissances** pour construire une réponse argumentée à une question spécifique.
-
-Bonnes révisions !

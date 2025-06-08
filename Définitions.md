@@ -1,15 +1,19 @@
 ### Chapitre 1
+**bonheur**: Le bonheur est un état de satisfaction total et durable. Le bonheur ce n'est pas la joie
+
+**joie**: sentiment court qui relève de l'humeur.
 
 **désir**: quelque chose qui est perçu comme un manque. C'est la cause d'une mise en mouvement. Il s'oppose à la volition et a pour but la satisfaction qui provoque la disparition de ce désir jusqu'à nouveau la manque
 
-
 **mobilisme**: chercher à être heureux et à tirer de notre vie le plus de plaisirs possible; se comprend comme une tentative de lutter contre le temps qui passe
 
-**conscience temporelle**: capacité à situer les choses et à se situer dans le temps (suppose un lien entre le temps et l'espace). C'est-à-dire dans un présent en rapport avec un passé et un futur.
+**conscience temporelle**: capacité à situer les choses et à se situer dans le temps (suppose un lien entre le temps et l'espace). C'est-à-dire dans un présent en rapport avec un passé et un futur. ^9ffd1c
 
 **réflexive**: on réfléchit sur des concepts propres à l'homme
 
 **prédicative**: on réfléchir sur le monde extérieur, c'est un **jugement** qui associe un prédicat à un sujet à l'aide d'une copule.
+
+**éthique**: ensemble des règles pour mener une vie bonne. ^f5f924
 
 ### Chapitre 2
 **proposition**: contenu conceptuel d'une affirmation **ou** le sens d'une phrase

@@ -33,8 +33,7 @@ Problématique: "A quoi sert l'Etat?"
 
 ## <font color="#ff0000">I) L'Etat a une utilité qui est même une nécessité en ce qu'il garantit la justice et la liberté.</font>
 ### <font color="#0070c0">A) Le sens de la justice n'est pas naturel donc nous devons avoir un Etat pour être juste.</font>
-> [!cite] Platon
->*République*, II,
+> [!note]- *République*, II, Platon
 >Socrate discute avec Glaucon
 
 Méthode socratique, la maïeutique: mettre en scène un personnage qui fait semblant de ne rien savoir mais qui sait tout contre des personnages qui croient tout savoir.
