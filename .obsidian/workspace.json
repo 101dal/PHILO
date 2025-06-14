@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitres/Chapitre 6.md",
+                "file": "Chapitres/Chapitre 7.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapitre 6"
+              "title": "Chapitre 7"
             }
           },
           {
@@ -181,12 +181,13 @@
   },
   "active": "2158324cc2a7f95c",
   "lastOpenFiles": [
+    "Chapitres/Chapitre 6.md",
+    "Chapitres/Chapitre 7.md",
     "Chapitres/Chapitre 5.md",
     "Chapitres/Chapitre 4.md",
     "Chapitres/Chapitre 3.md",
     "Chapitres/Chapitre 2.md",
     "Chapitres/Chapitre 1.md",
-    "Chapitres/Chapitre 6.md",
     "Chapitres/Test.md",
     "Fiches révision/Chapitre 3.md",
     "Fiches révision/Chapitre 3 v2.md",
@@ -206,7 +207,6 @@
     "Repères/Immédiat - médiat.md",
     "Repères/Essence - Accidentel.md",
     "Repères/Contrainte - Obligation.md",
-    "Repères/Analyse - synthèse.md",
     "Fiches révision",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
