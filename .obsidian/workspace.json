@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notions/Langage.md",
+                "file": "Notions/Travail.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Langage"
+              "title": "Travail"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitres/Chapitre 3.md",
-                "mode": "preview",
+                "file": "Définitions.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapitre 3"
+              "title": "Définitions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +180,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2158324cc2a7f95c",
+  "active": "98b623d1d54e08e0",
   "lastOpenFiles": [
-    "Notions/Justice.md",
+    "Notions/Vérité.md",
+    "Chapitres/Chapitre 3.md",
+    "Notions/Travail.md",
+    "Notions/Temps.md",
+    "Notions/Technique.md",
+    "Notions/Science.md",
+    "Notions/Religion.md",
+    "Notions/Raison.md",
+    "Notions/Nature.md",
+    "Notions/Liberté.md",
     "Notions/Langage.md",
+    "Notions/Justice.md",
     "Notions/Inconscient.md",
     "Notions/Etat.md",
     "Notions/Devoir.md",
@@ -193,20 +204,10 @@
     "Chapitres/Chapitre 6.md",
     "Chapitres/Chapitre 5.md",
     "Chapitres/Chapitre 4.md",
-    "Chapitres/Chapitre 3.md",
     "Chapitres/Chapitre 2.md",
     "Chapitres/Chapitre 1.md",
     "Chapitres/Test.md",
     "Fiches révision/Chapitre 3.md",
-    "Fiches révision/Chapitre 3 v2.md",
-    "Fiches révision/Chapitre 3 v3.md",
-    "Repères/Actuel - Potentiel.md",
-    "Repères/Absolu - Relatif.md",
-    "Auteurs/Vladimir Jankélévitch.md",
-    "Définitions.md",
-    "Repères/Subjectif - objectif.md",
-    "Repères/Essentiel - accidentel.md",
-    "Fiches révision/DS.md",
     "Fiches révision",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
