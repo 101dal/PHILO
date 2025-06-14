@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitres/Chapitre 7.md",
+                "file": "Notions/Conscience.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapitre 7"
+              "title": "Conscience"
             }
           },
           {
@@ -181,8 +181,11 @@
   },
   "active": "2158324cc2a7f95c",
   "lastOpenFiles": [
-    "Chapitres/Chapitre 6.md",
+    "Notions/Bonheur.md",
+    "Notions/Conscience.md",
+    "Notions/Art.md",
     "Chapitres/Chapitre 7.md",
+    "Chapitres/Chapitre 6.md",
     "Chapitres/Chapitre 5.md",
     "Chapitres/Chapitre 4.md",
     "Chapitres/Chapitre 3.md",
@@ -196,7 +199,6 @@
     "Repères/Absolu - Relatif.md",
     "Auteurs/Vladimir Jankélévitch.md",
     "Définitions.md",
-    "Notions/Bonheur.md",
     "Repères/Subjectif - objectif.md",
     "Repères/Essentiel - accidentel.md",
     "Fiches révision/DS.md",
@@ -205,8 +207,6 @@
     "Repères/Origine - Fondement.md",
     "Repères/Objectif - Subjectif.md",
     "Repères/Immédiat - médiat.md",
-    "Repères/Essence - Accidentel.md",
-    "Repères/Contrainte - Obligation.md",
     "Fiches révision",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
