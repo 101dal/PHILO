@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Définitions.md",
-                "mode": "preview",
+                "file": "Exemples.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Définitions"
+              "title": "Exemples"
             }
           }
         ],
@@ -182,10 +182,12 @@
   },
   "active": "2158324cc2a7f95c",
   "lastOpenFiles": [
+    "Auteurs.md",
+    "Exemples.md",
+    "Définitions.md",
     "Note.md",
     "Notions/Art.md",
     "Notions/Travail.md",
-    "Définitions.md",
     "Notions/Vérité.md",
     "Chapitres/Chapitre 3.md",
     "Notions/Temps.md",
@@ -206,8 +208,6 @@
     "Chapitres/Chapitre 6.md",
     "Chapitres/Chapitre 5.md",
     "Chapitres/Chapitre 4.md",
-    "Chapitres/Chapitre 2.md",
-    "Chapitres/Chapitre 1.md",
     "Fiches révision",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
