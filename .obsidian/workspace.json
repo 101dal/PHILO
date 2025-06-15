@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Définitions.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Définitions"
-            }
-          },
-          {
-            "id": "2158324cc2a7f95c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exemples.md",
+                "file": "Résumé.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Exemples"
+              "title": "Résumé"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,13 +165,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2158324cc2a7f95c",
+  "active": "98b623d1d54e08e0",
   "lastOpenFiles": [
-    "Auteurs.md",
-    "Exemples.md",
-    "Définitions.md",
-    "Note.md",
+    "Notions/Justice.md",
+    "Résumé.md",
     "Notions/Art.md",
+    "Auteurs.md",
+    "Définitions.md",
+    "Chapitres/Chapitre 4.md",
+    "Chapitres/Chapitre 5.md",
+    "Exemples.md",
+    "Note.md",
     "Notions/Travail.md",
     "Notions/Vérité.md",
     "Chapitres/Chapitre 3.md",
@@ -198,16 +187,12 @@
     "Notions/Nature.md",
     "Notions/Liberté.md",
     "Notions/Langage.md",
-    "Notions/Justice.md",
     "Notions/Inconscient.md",
     "Notions/Etat.md",
     "Notions/Devoir.md",
     "Notions/Conscience.md",
     "Notions/Bonheur.md",
     "Chapitres/Chapitre 7.md",
-    "Chapitres/Chapitre 6.md",
-    "Chapitres/Chapitre 5.md",
-    "Chapitres/Chapitre 4.md",
     "Fiches révision",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
