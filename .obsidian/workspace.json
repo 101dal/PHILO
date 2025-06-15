@@ -13,7 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitres/Tout.md",
+                "file": "Résumé.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Résumé"
+            }
+          },
+          {
+            "id": "dad98e526d09b06e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Résumé.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Résumé"
+            }
+          },
+          {
+            "id": "6259d6d3c6e9f559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tout.md",
                 "mode": "source",
                 "source": true
               },
@@ -21,7 +49,8 @@
               "title": "Tout"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,15 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98b623d1d54e08e0",
+  "active": "6259d6d3c6e9f559",
   "lastOpenFiles": [
-    "Chapitres/Chapitre 1.md",
-    "Chapitres/Tout.md",
-    "Auteurs.md",
+    "Définitions.md",
+    "Tout.md",
     "Résumé.md",
+    "Méthodoloqie/Explication de texte.md",
+    "Chapitres/Tout.md",
+    "Chapitres/Chapitre 1.md",
+    "Auteurs.md",
     "Notions/Justice.md",
     "Notions/Art.md",
-    "Définitions.md",
     "Chapitres/Chapitre 4.md",
     "Chapitres/Chapitre 5.md",
     "Exemples.md",
@@ -191,8 +222,6 @@
     "Notions/Langage.md",
     "Notions/Inconscient.md",
     "Notions/Etat.md",
-    "Notions/Devoir.md",
-    "Notions/Conscience.md",
     "Fiches révision",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
