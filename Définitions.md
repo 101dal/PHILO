@@ -1,7 +1,3 @@
-Parfait, voici la liste complétée avec les définitions issues de tous les chapitres que vous avez fournis, en conservant le format et les identifiants que vous aviez mis en place.
-
-***
-
 ### <u>Définitions</u>
 
 #### Chapitre 1 & 7

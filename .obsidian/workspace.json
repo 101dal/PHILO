@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2158324cc2a7f95c",
+            "id": "98b623d1d54e08e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notions/Travail.md",
-                "mode": "source",
+                "file": "Définitions.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Travail"
+              "title": "Définitions"
             }
           },
           {
-            "id": "98b623d1d54e08e0",
+            "id": "2158324cc2a7f95c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,11 +180,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98b623d1d54e08e0",
+  "active": "2158324cc2a7f95c",
   "lastOpenFiles": [
+    "Note.md",
+    "Notions/Art.md",
+    "Notions/Travail.md",
+    "Définitions.md",
     "Notions/Vérité.md",
     "Chapitres/Chapitre 3.md",
-    "Notions/Travail.md",
     "Notions/Temps.md",
     "Notions/Technique.md",
     "Notions/Science.md",
@@ -199,15 +202,12 @@
     "Notions/Devoir.md",
     "Notions/Conscience.md",
     "Notions/Bonheur.md",
-    "Notions/Art.md",
     "Chapitres/Chapitre 7.md",
     "Chapitres/Chapitre 6.md",
     "Chapitres/Chapitre 5.md",
     "Chapitres/Chapitre 4.md",
     "Chapitres/Chapitre 2.md",
     "Chapitres/Chapitre 1.md",
-    "Chapitres/Test.md",
-    "Fiches révision/Chapitre 3.md",
     "Fiches révision",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
