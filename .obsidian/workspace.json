@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Résumé.md",
-                "mode": "preview",
+                "file": "Chapitres/Tout.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Résumé"
+              "title": "Tout"
             }
           }
         ]
@@ -167,10 +167,12 @@
   },
   "active": "98b623d1d54e08e0",
   "lastOpenFiles": [
-    "Notions/Justice.md",
-    "Résumé.md",
-    "Notions/Art.md",
+    "Chapitres/Chapitre 1.md",
+    "Chapitres/Tout.md",
     "Auteurs.md",
+    "Résumé.md",
+    "Notions/Justice.md",
+    "Notions/Art.md",
     "Définitions.md",
     "Chapitres/Chapitre 4.md",
     "Chapitres/Chapitre 5.md",
@@ -191,8 +193,6 @@
     "Notions/Etat.md",
     "Notions/Devoir.md",
     "Notions/Conscience.md",
-    "Notions/Bonheur.md",
-    "Chapitres/Chapitre 7.md",
     "Fiches révision",
     "Chapitres/Pdf/Chapitre 3.pdf",
     "Chapitres/Pdf",
