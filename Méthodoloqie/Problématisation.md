@@ -4,7 +4,7 @@ Un question qui pose problème est une question qui n'admet pas qu'une seule ré
 ## II) Le problème avec les problèmes
 **Définition de la contradiction:** Se contredit c'est affirmer une chose et son contraire. Exemple: dire qu'il fait beau et moche en même temps
 Comment faire pour ne pas se contredir?:
-**je ne peux pas affirmer une chose et son contraire sans me contredir, sauf si je change de point de vue = si j'affirme une chose et son contraire sans changer de point de vue, alors je me contredis.**
+**je ne peux pas affirmer une chose et son contraire sans me contredire, sauf si je change de point de vue = si j'affirme une chose et son contraire sans changer de point de vue, alors je me contredis.**
 En philosophie **changer de point de vue, c'est changer de définition**
 
 ## III) Problème, problématisation et problématique

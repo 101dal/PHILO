@@ -31,4 +31,4 @@ Dans la conclusion il y a deux paragraphes après avoir sauté une ligne:
 
 
 ### Comment faire une bonne troisième partie
-La troisième partie est toujours délicate. Trouver les deux premières parties est plus aisé, il faut séparer les termes du sujet afin de les dégager. La troisième partie est difficile car elle doit répondre à la question tout en abordant une définition différente des termes. Une bonne idée est donc (pour un sujet de la forme $A\implies B$) de dire qu'en fait c'est $C\implies B$ et que $A$ n'est qu'une partie de $C$ ($C\neq A\in C\implies B$)
+La troisième partie est toujours délicate. Trouver les deux premières parties est plus aisé, il faut séparer les termes du sujet afin de les dégager. La troisième partie est difficile car elle doit répondre à la question tout en abordant une définition différente des termes. Une bonne idée est donc (pour un sujet de la forme $A\implies B$) de dire qu'en fait c'est $C\implies B$ et que $A$ n'est qu'une partie de $C$.

@@ -90,7 +90,9 @@ Nietzsche expose un paradoxe : l'homme se sent supérieur à l'animal grâce à 
 Le dialogue fictif final révèle que pour être heureux, il faut la conscience temporelle. La bête oublie qu'elle est heureuse. Inversement, la conscience est la condition de la reconnaissance du bonheur. Il y a donc une différence fondamentale entre l'homme, qui a une existence historique (conscience de son passé), et l'animal, qui n'a qu'une existence temporelle.
 
 ---
+
 **Transition** : Nous avons donc vu que le bonheur, s'il dérive du plaisir, est mis en péril par le temps qui passe. À la différence des animaux, nous avons une conscience historique qui, si elle peut être source de malheur, semble aussi être la condition même de la reconnaissance de notre bonheur. Cependant, cette vision fait du temps un ennemi. Par conséquent, nous verrons qu'être heureux est possible même si rien ne dure, à condition que le bonheur ne dépende plus du temps mais de nous-mêmes.
+
 ---
 
 ## <font color="#ff0000">II) Le bonheur est possible à la condition que nous fassions du bonheur quelque chose qui dépend de nous et non pas du temps qui passe. Il faut travailler sur soi et sur ses désirs pour ne pas être malheureux.</font>
@@ -142,7 +144,9 @@ Le bonheur pour Épicure est **l'ataraxie** (absence de troubles de l'âme) et *
 Le bonheur est donc une absence de douleur et de trouble, un état que l'on atteint par la modération et la sagesse.
 
 ---
+
 **Transition** : Nous avons exploré des voies où le bonheur devient possible en le faisant dépendre de nous, de notre capacité à maîtriser nos désirs et nos peurs. Ces philosophies supposent un travail sur soi, une forme de sagesse pour atteindre un état de quiétude. Cependant, cette vision du bonheur comme un état stable et final peut sembler trop idéaliste. Le bonheur ne serait-il pas plutôt une activité, une dynamique constante, qui se trouve non pas dans la satisfaction finale mais dans l'acte même de désirer et d'agir ?
+
 ---
 
 ## <font color="#ff0000">III) Le bonheur est une activité qui part de soi et qui doit se rejouer à chaque instant pour lutter contre le temps qui passe.</font>
