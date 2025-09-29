@@ -50,8 +50,6 @@ Le projet, c'est connaître la nature, la promesse, c'est vivre mieux.
 Pour Descartes, la théorie a pour unique finalité l'action dans la nature, elle est toujours orientée vers le pratique. Le but de la science, c'est la technique. La condition de la science, c'est la technique.
 
 Si on ne sait plus dans quel livre Descartes a mis, on dit dans les *Principes de la philosophie* (il y a tout).
-<center>"Toute la philosophie est comme un arbre" - *Principes de la Philosophie*</center>
-<center><img src="https://i.ibb.co/L5w2R7M/image.png"/></center>
 
 -   **La théorie a un destin pratique :**
     -   *Mécanique :* on va travailler moins.
