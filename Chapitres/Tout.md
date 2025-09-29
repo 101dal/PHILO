@@ -1,7 +1,3 @@
-Voici un résumé complet de tous vos chapitres, respectant scrupuleusement le plan, le contenu et la mise en forme demandés.
-
-***
-
 ## <center>Chapitre 1 : Comment être heureux, si rien ne dure ?</center>
 
 ### Plan de la dissertation

@@ -1,7 +1,3 @@
-Bien sûr ! Voici la transcription complète et mise en forme de vos notes pour le chapitre 6, en respectant scrupuleusement le contenu, la mise en page et les couleurs demandées.
-
-***
-
 ## <center>Chapitre 6 : Le travail</center>
 Sujet : Faut-il arrêter de travailler ?
 *(Travail, Liberté, Nature, Bonheur, Conscience, Raison, Temps)*

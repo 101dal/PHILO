@@ -51,7 +51,6 @@ On comprend le libre-arbitre comme l'absence de nécessités. C'est une illusion
 La solution est d'accepter le déterminisme sans qu'il soit considéré comme une cause nécessaire à mes choix.
 
 **Exemple de la porte :**
-<center><img src="https://i.ibb.co/L5S8V9M/image.png"/></center>
 ① - Soit on considère qu'il est nécessaire de passer par la porte B.
 ② - Soit on considère que sortir par B n'est pas contraignant mais obligatoire, alors on perd le libre-arbitre (avant) mais on garde la liberté.
 **Consentir →** il faut consentir que ce soit nécessaire.
