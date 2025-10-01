@@ -272,7 +272,7 @@ L'Etat:
 > "C'est l'histoire de la femme de Barbe-Bleue, qui eut un palais à sa disposition avec la liberté pleine et entière de pénétrer partout, de voir et de toucher tout, excepté une mauvaise petite chambre (...) Eh bien, se détournant de toutes les magnificences du palais, son âme se concentra tout entière sur cette mauvaise petite chambre : elle l’ouvrit, et elle eut raison de l’ouvrir, car ce fut un acte nécessaire de sa liberté"
 
 ##### <font color="#00b050">L'anarchisme et la liberté</font>
-Dans l'anarchisme on retire toute restriction de liberté. Il est différent le anomie (a-Nomos) où on ne retire que les lois.
+Dans l'anarchisme on retire toute restriction de liberté. Il est différent l'anomie (a-Nomos) où on ne retire que les lois.
 Dans l'anarchisme, la liberté c'est la licence (action) et le libre arbitre (choix).
 
 Pour Kant dans *Qu'est-ce que les Lumières?* nous devons distinguer deux états pour l'homme:
