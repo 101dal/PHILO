@@ -11,10 +11,14 @@
             "id": "dad98e526d09b06e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Chapitres/Chapitre 3.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 3"
             }
           }
         ]

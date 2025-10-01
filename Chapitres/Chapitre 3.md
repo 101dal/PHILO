@@ -70,7 +70,7 @@ La connaissance du juste (théorique) s'oppose ainsi à l'action juste (la prati
 
 Par exemple, Amartya Sens dans *L'idée de justice*, 2009 nous demande à quel enfant il faut donner une flûte:
 - Anna la veut car est la seule à savoir en jouer: point de vue utilitaire
-- Bob la veut car il n'a aucun jouer
+- Bob la veut car il n'a aucun jouet
 - Carla la veut car c'est elle qui a fait la flûte
 
 Cela questionne sur le sens de la justice, on a pas tous la même mais on est persuadé de ce qui est juste ou non. Quand bien même je sais ce qui est juste, cela ne veut pas dire que je vais agir selon la justice.
