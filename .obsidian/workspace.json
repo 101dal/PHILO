@@ -11,14 +11,10 @@
             "id": "dad98e526d09b06e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Méthodoloqie/Problématisation.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Problématisation"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,8 +162,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eadf033a2307a03a",
+  "active": "dad98e526d09b06e",
   "lastOpenFiles": [
+    "Résumé.md",
+    "Tout.md",
+    "Exemples.md",
+    "Méthodoloqie/Problématisation.md",
     "Chapitres/Pdf/Problématisation.pdf",
     "Méthodoloqie/La dissertation.md",
     "Chapitres/Pdf/La dissertation.pdf",
@@ -181,7 +181,6 @@
     "Chapitres/Pdf/Chapitre 5.pdf",
     "Chapitres/Pdf/Chapitre 2.pdf",
     "Chapitres/Pdf/Chapitre 3.pdf",
-    "Chapitres/Pdf/Chapitre 1.pdf",
     "Chapitres/Chapitre 7.md",
     "Chapitres/Chapitre 6.md",
     "Chapitres/Chapitre 5.md",
@@ -197,10 +196,6 @@
     "Repères/Absolu - Relatif.md",
     "Notions/Bonheur.md",
     "Notions/Art.md",
-    "Méthodoloqie/Problématisation.md",
-    "Résumé.md",
-    "Tout.md",
-    "Exemples.md",
     "Définitions.md",
     "Auteurs.md",
     "Corrigé.md",
